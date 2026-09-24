@@ -22,6 +22,12 @@ window/size/window_width_override=1600
 window/size/window_height_override=900
 window/stretch/mode="canvas_items"
 
+[file_customization]
+
+folder_colors={
+"res://src/debug/": "orange"
+}
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
